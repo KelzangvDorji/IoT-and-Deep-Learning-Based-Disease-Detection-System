@@ -1,0 +1,72 @@
+# Node.js dependencies
+node_modules/
+
+# Large data files
+*.csv
+*.json
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.sqlite3
+
+# Large model files
+*.pth
+*.h5
+*.hdf5
+*.ckpt
+*.pt
+*.bin
+
+# Large image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+
+# Large video files
+*.mp4
+*.avi
+*.mov
+*.wmv
+
+# Large audio files
+*.mp3
+*.wav
+*.ogg
+
+# Large log files
+*.log
+*.out
+
+# Large cache files
+.cache/
+__pycache__/
+*.pyc
+
+# Large temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Large backup files
+*.bak
+*.backup
+
+# Large virtual environment files
+venv/
+env/
+.env
+
+# Large IDE files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Large OS files
+.DS_Store
+Thumbs.db 
